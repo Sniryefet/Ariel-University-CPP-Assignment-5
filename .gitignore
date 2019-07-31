@@ -1,0 +1,7 @@
+junk
+*.o
+.vscode
+*.ipch
+demo
+test
+*.json
